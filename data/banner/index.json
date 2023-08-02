@@ -1,0 +1,17 @@
+{
+  "code": 0,
+  "data": [
+    {
+        "id": 38,
+        "url": "data/banner/images/banner_1.jpg",
+        "skipUrl": "/",
+        "title": ""
+      },
+      {
+        "id": 40,
+        "url": "data/banner/images/banner_2.jpg",
+        "skipUrl": "/",
+        "title": ""
+      }
+]   
+}
