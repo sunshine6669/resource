@@ -1,0 +1,59 @@
+{
+    "code": 0,
+    "data": [
+      {
+          "id": 38,
+          "url": "https://imagedelivery.net/zZMOv_5kQHEcXFPWuvHkEw/5a354ac7-e6d5-4ada-2ec4-edf91b76ed00/public",
+          "skipUrl": "/",
+          "title": "brand1"
+        },
+        {
+          "id": 41,
+          "url": "https://imagedelivery.net/zZMOv_5kQHEcXFPWuvHkEw/4d36787b-b89e-445a-4091-648e682e0b00/public",
+          "skipUrl": "/",
+          "title": "brand2"
+        },
+        {
+          "id": 42,
+          "url": "https://imagedelivery.net/zZMOv_5kQHEcXFPWuvHkEw/fee54dab-3fe5-42a1-882c-c4fab0039b00/public",
+          "skipUrl": "/",
+          "title": "brand2"
+        },
+        {
+          "id": 43,
+          "url": "https://imagedelivery.net/zZMOv_5kQHEcXFPWuvHkEw/5a354ac7-e6d5-4ada-2ec4-edf91b76ed00/public",
+          "skipUrl": "/",
+          "title": "brand1"
+        },
+        {
+          "id": 44,
+          "url": "https://imagedelivery.net/zZMOv_5kQHEcXFPWuvHkEw/4d36787b-b89e-445a-4091-648e682e0b00/public",
+          "skipUrl": "/",
+          "title": "brand2"
+        },
+        {
+          "id": 45,
+          "url": "https://imagedelivery.net/zZMOv_5kQHEcXFPWuvHkEw/fee54dab-3fe5-42a1-882c-c4fab0039b00/public",
+          "skipUrl": "/",
+          "title": "brand2"
+        },
+        {
+          "id": 46,
+          "url": "https://imagedelivery.net/zZMOv_5kQHEcXFPWuvHkEw/5a354ac7-e6d5-4ada-2ec4-edf91b76ed00/public",
+          "skipUrl": "/",
+          "title": "brand1"
+        },
+        {
+          "id": 47,
+          "url": "https://imagedelivery.net/zZMOv_5kQHEcXFPWuvHkEw/4d36787b-b89e-445a-4091-648e682e0b00/public",
+          "skipUrl": "/",
+          "title": "brand2"
+        },
+        {
+          "id": 48,
+          "url": "https://imagedelivery.net/zZMOv_5kQHEcXFPWuvHkEw/fee54dab-3fe5-42a1-882c-c4fab0039b00/public",
+          "skipUrl": "/",
+          "title": "brand2"
+        }
+  ]
+}
